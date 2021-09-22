@@ -25,7 +25,7 @@ Refer the below image for the same
 username - user
 password - password is dynmaically allocated.
 
-https://github.com/Darshan-20310597/Ey_Assignment/blob/master/ey1.jpg
+![Optional Text](https://github.com/Darshan-20310597/Ey_Assignment/blob/master/ey1.jpg)
 
 1. Todo API and values to test in postman 
 
