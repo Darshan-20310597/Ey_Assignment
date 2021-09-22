@@ -22,7 +22,8 @@ Here is an Example in my system and you will get another password in your system
 In Postman, to test the api we need to set the basic authentication
 Refer the below image for the same 
 
-username - user
+```username - user```
+
 password - password is dynmaically allocated.
 
 ![Optional Text](https://github.com/Darshan-20310597/Ey_Assignment/blob/master/ey1.jpg)
